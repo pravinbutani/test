@@ -1,1 +1,2 @@
 
+echo "$init 6"
